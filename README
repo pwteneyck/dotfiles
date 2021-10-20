@@ -2,5 +2,6 @@ run
 
 ```
 cp ~/.bash_aliases ~/_bash_aliases.bkp
-cat .bash_aliases >> ~/.bash_aliases
+cat .bash_aliases >> !:1
+source !$
 ```
