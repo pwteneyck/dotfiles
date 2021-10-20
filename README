@@ -1,0 +1,6 @@
+run
+
+```
+cp ~/.bash_aliases ~/_bash_aliases.bkp
+cat .bash_aliases >> ~/.bash_aliases
+```

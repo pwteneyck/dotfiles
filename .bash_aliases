@@ -1,7 +1,8 @@
+alias terra='ssh pwt@192.168.4.207'
+alias pdash="firefox 'http://192.168.4.207:32400/web/index.html#!/settings/server/6c06304aedfbac70505e735f240155f895c1efc5/status/server-dashboard' > /dev/null 2>%1 &"
 alias python='/usr/bin/python3'
 alias pip='pip3'
 alias python2='/usr/bin/python'
-# alias plex='ssh pwt@192.168.4.113'
 alias terra='ssh pwt@192.168.4.207'
 
 fox() {
