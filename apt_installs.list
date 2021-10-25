@@ -3,4 +3,7 @@ git
 mpv
 qutebrowser
 firefox
+jq
+xclip
 sublime-text
+python3-pip
